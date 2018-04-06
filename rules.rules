@@ -1,5 +1,5 @@
 #test
-ok /(?i)commit message error/
+ok /Commit message:/
 error /(?i)error/
 error /(?i)fail/
 error /(?i)syntaxerror/
