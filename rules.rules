@@ -1,4 +1,3 @@
-#test
 ok /Commit message:/
 ok /git --version/ 
 ok /git fetch/
