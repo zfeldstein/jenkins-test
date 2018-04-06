@@ -1,5 +1,9 @@
 #test
 ok /Commit message:/
+ok /git --version/ 
+ok /git fetch/
+ok /git rev-parse/
+ok /Checking out/
 error /(?i)error/
 error /(?i)fail/
 error /(?i)syntaxerror/
