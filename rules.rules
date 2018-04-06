@@ -1,3 +1,4 @@
+#test
 ok /Commit message:/
 error /(?i)error/
 error /(?i)fail/
