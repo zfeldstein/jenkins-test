@@ -2,3 +2,5 @@
 error /(?i)error/
 error /(?i)fail/
 error /(?i)syntaxerror/
+
+ok /(?i)commit message error/
